@@ -6,7 +6,10 @@ Our analysis can be found [here](https://github.com/hotpacket/coupon_data_analys
 
 ### Finding 1: Frequent bargoers are likely to accept bar coupons. 
 
-While the overall acceptance rate for bar coupons was 41%, drivers that visit bars four or more times per month were 76.9% likely to accept bar coupons. People over 25 who went to a bar at least once per month were 69.5% likely. People who went to a bar at least once per month, had a partner or friend(s) as passengers in the car, and worked in occupations other than farming, fishing, and forestry were 71.8% likely to accept.
+The overall acceptance rate for bar coupons was 41%. The following groups of people are some examples of those with significantly higher acceptance rates:
+- Drivers that visit bars four or more times per month were 76.9% likely to accept bar coupons.
+- People over 25 who went to a bar at least once per month were 69.5% likely.
+- People who went to a bar at least once per month, had a partner or friend(s) as passengers in the car, and worked in occupations other than farming, fishing, and forestry were 71.8% likely to accept.
 
 ### Finding 2: Younger people were more likely to accept all types of coupons 
 
