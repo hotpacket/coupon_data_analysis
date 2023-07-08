@@ -36,7 +36,7 @@ Partner       0.595349
 
 As seen in the KDE plot below, drivers in their thirties were most likely to have children as passengers.
 
-!([Child passenger KDE plot](/images/childpassengers.png)
+![Child passenger KDE plot](/images/childpassengers.png)
 
 ### Finding 5: Of all drivers with child passengers, drivers in their thirties were least likely to accept coupons
 
