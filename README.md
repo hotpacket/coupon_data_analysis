@@ -12,14 +12,16 @@ While the overall acceptance rate for bar coupons was 41%, drivers that visit ba
 
 The following table shows the overall coupon acceptance rate by age.
 
-under 21    0.634369
-      21    0.598191
-      26    0.595936
-      31    0.546346
-      36    0.535254
-      41    0.572736
-      46    0.575802
- over 50    0.508949
+|Age of driver|Likelihood of acceptance|
+|---|---|
+|under 21|0.634369|
+|21|0.598191|
+|26|0.595936|
+|31|0.546346|
+|36|0.535254|
+|41|0.572736|
+|46|0.575802|
+|over 50|0.508949|
 
 We noted a particular dip in the 31 and 36 age ranges, and decided to investigate whether have kids influenced the acceptance decision.
 
@@ -27,10 +29,12 @@ We noted a particular dip in the 31 and 36 age ranges, and decided to investigat
 
 The following table shows acceptance rates by passenger type.
 
-No passengers 0.525804
-Friend(s)     0.673438
-Kid(s)        0.50497
-Partner       0.595349
+|Passenger type|Likelihood of acceptance|
+|---|---|
+|No passengers|0.525804|
+|Friend(s)|0.673438|
+|Kid(s)|0.50497|
+|Partner|0.595349|
 
 ### Finding 4: Drivers in their thirties most likely to have children as passengers
 
@@ -42,13 +46,15 @@ As seen in the KDE plot below, drivers in their thirties were most likely to hav
 
 The following table shows the acceptance rates for drivers with child passengers.
 
-under 21    0.658824
-      26    0.603306
-      31    0.433628
-      36    0.482143
-      41    0.476471
-      46    0.56962
- over 50    0.471338
+|Driver age (with child passenger(s)|Likelihood of acceptance|
+|---|---|
+|under 21|0.658824|
+|26|0.603306|
+|31|0.433628|
+|36|0.482143|
+|41|0.476471|
+|46|0.56962|
+|over 50|0.471338|
 
 Drivers in their thirties are most likely to have small children, which may make them least likely to change plans and accept unexpected coupons.
 
