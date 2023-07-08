@@ -4,11 +4,11 @@ In this project, we analyze a smartphone coupon [dataset](https://archive.ics.uc
 
 Our analysis can be found [here](https://github.com/hotpacket/coupon_data_analysis/prompt.ipynb). We focus our analysis on scenarios involving bar coupons, the age of the drivers, and whether the drivers have children.
 
-###Finding 1: Frequent bargoers are likely to accept bar coupons. 
+### Finding 1: Frequent bargoers are likely to accept bar coupons. 
 
 While the overall acceptance rate for bar coupons was 41%, drivers that visit bars four or more times per month were 76.9% likely to accept bar coupons. People over 25 who went to a bar at least once per month were 69.5% likely. People who went to a bar at least once per month, had a partner or friend(s) as passengers in the car, and worked in occupations other than farming, fishing, and forestry were 71.8% likely to accept.
 
-###Finding 2: Younger people were more likely to accept all types of coupons 
+### Finding 2: Younger people were more likely to accept all types of coupons 
 
 The following table shows the overall coupon acceptance rate by age.
 
@@ -23,7 +23,7 @@ under 21    0.634369
 
 We noted a particular dip in the 31 and 36 age ranges, and decided to investigate whether have kids influenced the acceptance decision.
 
-###Finding 3: Having kids as passengers in the car negatively influenced coupon acceptance
+### Finding 3: Having kids as passengers in the car negatively influenced coupon acceptance
 
 The following table shows acceptance rates by passenger type.
 
@@ -32,12 +32,13 @@ Friend(s)     0.673438
 Kid(s)        0.50497
 Partner       0.595349
 
-###Finding 4: Drivers in their thirties most likely to have children as passengers
+### Finding 4: Drivers in their thirties most likely to have children as passengers
 
-As seen in the graphic below, drivers in their thirties were most likely to have children as passengers.
+As seen in the KDE plot below, drivers in their thirties were most likely to have children as passengers.
 
+!(Child passenger KDE plot)[https://github.com/hotpacket/coupon_data_analysis/blob/main/images/childpassengers.png]
 
-###Finding 5: Of all drivers with child passengers, drivers in their thirties were least likely to accept coupons
+### Finding 5: Of all drivers with child passengers, drivers in their thirties were least likely to accept coupons
 
 The following table shows the acceptance rates for drivers with child passengers.
 
